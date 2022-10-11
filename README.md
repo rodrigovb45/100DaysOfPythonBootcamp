@@ -19,5 +19,3 @@
 ## Challenges:
 Here my Replit for the code challenges:
 
-
-
