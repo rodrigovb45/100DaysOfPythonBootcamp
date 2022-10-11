@@ -1,3 +1,23 @@
-# 100DaysOfPythonBootcamp
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
-Repository for my solutions of the code challenges on the 100 Days Of Python Bootcamp by Angela Yu
+<p align="center">
+  <img src="" >
+</p>
+
+# Rodrigo Vasconcelos
+<sub>*Business Manager, Data Scientist </sub>
+
+
+
+**Background in:** Business Management, Python, SQL.
+
+**Links:**
+* [LinkedIn]([https://www.linkedin.com/in/carlosfab](https://www.linkedin.com/in/rodrigobvasconcelos/))
+* [Medium]([https://www.medium.com](https://medium.com/@IdeiaDados))
+
+
+## Projetos:
+Abaixo as soluções que fiz dos desafios propostos:
+
+
+
