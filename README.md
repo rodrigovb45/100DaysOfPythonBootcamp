@@ -16,8 +16,8 @@
 * [Medium](https://medium.com/@IdeiaDados)
 
 
-## Projetos:
-Abaixo as soluções que fiz dos desafios propostos:
+## Challenges:
+Here my Replit for the code challenges:
 
 
 
