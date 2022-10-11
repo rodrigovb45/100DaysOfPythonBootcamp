@@ -17,5 +17,7 @@
 
 
 ## Challenges:
-Here my Replit for the code challenges:
+Here my Replit for my code challenges. On it you can see it working and also the code I wrote:
+* [Band Name Generator](https://replit.com/@rodrigovb7/myband-name-generator-start?v=1)
+* [Tip Calculator](https://replit.com/@rodrigovb7/mytip-calculator-start?v=1) 
 
